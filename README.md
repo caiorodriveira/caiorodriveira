@@ -1,7 +1,11 @@
-### Olá! Eu sou o Caio Rodrigo!! 👨‍🎓💻 👋
-- Estudando Angular CLI e JavaScript
-- Estagiário da Prefeitura Municipal de São Vicente
-- Desenvolvedor em desenvolvimento 😉 >_
+### Olá! Eu sou o Caio Rodrigo!! 👨🏾‍🎓🎓💻 👏🏾
+- 📚 3 semestre em Análise de Sistemas- Fatec Praia Grande
+- 👔 Estagiário da Prefeitura Municipal de São Vicente
+- 💻 Estudando Angular CLI, JavaScript e TypeScript
+- 📢 Nível Inglês: Básico/Intermediário, caminhando para avançado 
+<p><b>Amante de programação e sempre em busca de novos conhecimentos.</b></p>
+<p align="center"><b> FOCO 👓 &nbsp&nbsp&nbsp&nbsp ESFORÇO 💪🏾 &nbsp&nbsp&nbsp&nbsp PRÁTICA 💻!! </b></p>
+
 ## Meu GitHub:
 <div align="center">
   <a href="https://github.com/caiorodriveira">
@@ -24,6 +28,7 @@
  
 </div>
 
+### Redes Sociais:
 ##
 <div> 
   <a href="https://instagram.com/caio14_rod" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
