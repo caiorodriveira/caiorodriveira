@@ -3,10 +3,10 @@
 - Estagiário da Prefeitura Municipal de São Vicente
 - Desenvolvedor em desenvolvimento 😉 >_
 ## Meu GitHub:
-<div>
+<div align="center">
   <a href="https://github.com/caiorodriveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiorodriveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorodriveira&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caiorodriveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorodriveira&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## 
