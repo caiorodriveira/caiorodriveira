@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Rodrigo!! 👨🏾‍🎓🎓💻 👏🏾
 - 📚 3º semestre em Análise de Sistemas- Fatec Praia Grande
-- 👔 Estagiário da Prefeitura Municipal de São Vicente
+- 👔 Estagiário da Prefeitura Municipal de São Vicente (Departamento de Sistemas)
 - 💻 Estudando Angular CLI, JavaScript e TypeScript
 - 📢 Nível Inglês: Básico/Intermediário, caminhando para avançado 
 <p><b>Amante de programação e sempre em busca de novos conhecimentos.</b></p>
