@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Rodrigo!! 👨🏾‍🎓🎓💻
 - 📚 3º semestre em Análise e Desenvolvimento de Sistemas- Fatec Praia Grande
-- 👔 Estagiário da Prefeitura Municipal de São Vicente (Departamento de Sistemas)
+- 👔 Estagiário da Prefeitura Municipal de São Vicente - Departamento de Sistemas
 - 💻 Estudando Angular CLI e TypeScript
 - 📢 Nível Inglês: Básico/Intermediário, caminhando para avançado 
 <p><b>Amante de programação e sempre em busca de novos conhecimentos.</b></p>
@@ -25,11 +25,12 @@
   <img align="center" alt="Caio-Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Caio-VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Caio-Git" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Caio-Bootstrap" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
  
 </div>
 
-### Redes Sociais:
 ##
+### Contatos:
 <div> 
   <a href="https://instagram.com/caio14_rod" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:caiorodrigo2775@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
