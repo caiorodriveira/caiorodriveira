@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Caio Rodrigo!! 👨🏾‍🎓🎓💻
 - 📚 3º semestre em Análise e Desenvolvimento de Sistemas - Fatec Praia Grande
 - 👔 Estagiário da Prefeitura Municipal de São Vicente - Departamento de Sistemas
-- 💻 Estudando Angular CLI e SpringBoot
+- 💻 Estudando Java SpringBoot
 
 <p><b>Amante de programação e sempre em busca de novos conhecimentos.</b></p>
 <p align="center"><b> FOCO 👓 &nbsp&nbsp&nbsp&nbsp ESFORÇO 💪🏾 &nbsp&nbsp&nbsp&nbsp PRÁTICA 💻!! </b></p>
