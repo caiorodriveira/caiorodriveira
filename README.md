@@ -14,7 +14,7 @@
 </div>
 
 ## 
-### Conhecimento nas Linguagens/Programas/Frameworks:
+### Conhecimento nas Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Caio-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
