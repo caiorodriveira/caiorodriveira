@@ -4,7 +4,6 @@
 - 💻 Estudando Java SpringBoot
 
 <p><b>Amante de programação e sempre em busca de novos conhecimentos.</b></p>
-<p align="center"><b> FOCO 👓 &nbsp&nbsp&nbsp&nbsp ESFORÇO 💪🏾 &nbsp&nbsp&nbsp&nbsp PRÁTICA 💻!! </b></p>
 
 ## Meu GitHub:
 <div align="center">
