@@ -27,7 +27,7 @@
   
 ##
   <img align="center" alt="Caio-Bootstrap" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Caio-AngularCLI" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Caio-AngularCLI" height="50" width="50"  src="https://angular.io/assets/images/logos/angular/angular.svg">
   
 ##
   <img align="center" alt="Caio-Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
