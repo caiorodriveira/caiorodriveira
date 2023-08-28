@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Caio Rodrigo!! 👨🏾‍🎓🎓💻
-- 📚 4º semestre em Análise e Desenvolvimento de Sistemas - Fatec Praia Grande
+- 📚 5º semestre em Análise e Desenvolvimento de Sistemas - Fatec Praia Grande
 - 👔 Estagiário da Prefeitura Municipal de São Vicente - Departamento de Sistemas
-- 💻 Estudando Spring e PHP
 
 <p><b>Amante de programação e sempre em busca de novos conhecimentos.</b></p>
 
