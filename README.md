@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Caio Rodrigo!! 👨🏾‍🎓🎓💻
-- 📚 6º semestre em Análise e Desenvolvimento de Sistemas - Fatec Praia Grande
+- 📚 Formado em Análise e Desenvolvimento de Sistemas - Fatec Praia Grande
 - 👔 Desenvolvedor Full Stack- SENAI Soluções Digitais
 
 <p><b>Amante de programação e sempre em busca de novos conhecimentos.</b></p>
